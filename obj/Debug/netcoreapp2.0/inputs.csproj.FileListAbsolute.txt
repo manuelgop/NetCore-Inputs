@@ -1,0 +1,10 @@
+/Users/apple/Documents/inputs/bin/Debug/netcoreapp2.0/inputs.deps.json
+/Users/apple/Documents/inputs/bin/Debug/netcoreapp2.0/inputs.runtimeconfig.json
+/Users/apple/Documents/inputs/bin/Debug/netcoreapp2.0/inputs.runtimeconfig.dev.json
+/Users/apple/Documents/inputs/bin/Debug/netcoreapp2.0/inputs.dll
+/Users/apple/Documents/inputs/bin/Debug/netcoreapp2.0/inputs.pdb
+/Users/apple/Documents/inputs/obj/Debug/netcoreapp2.0/inputs.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/inputs/obj/Debug/netcoreapp2.0/inputs.AssemblyInfoInputs.cache
+/Users/apple/Documents/inputs/obj/Debug/netcoreapp2.0/inputs.AssemblyInfo.cs
+/Users/apple/Documents/inputs/obj/Debug/netcoreapp2.0/inputs.dll
+/Users/apple/Documents/inputs/obj/Debug/netcoreapp2.0/inputs.pdb
